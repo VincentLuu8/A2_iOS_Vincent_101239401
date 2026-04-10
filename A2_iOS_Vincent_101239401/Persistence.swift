@@ -42,7 +42,7 @@ struct PersistenceController {
                 (7, "TV", "80-inch 4k TV with HDR display.", 2299.99, "Samsung"),
                 (8, "Tracksuit", "Comfy and loose fitted featuring 100% cotton material.", 159.99, "Alo"),
                 (9, "Desk", "Stand-up functionality with 2 drawers for storage. ", 199.99, "SecretLabs"),
-                (10, "Candle", "3-wick long lasting wax.", 14.99, "WaxJar")
+                (10, "Candle", "3-wick slow burning wax with included wick lighter.", 14.99, "WaxJar")
             ]
 
             for item in sampleProducts {
