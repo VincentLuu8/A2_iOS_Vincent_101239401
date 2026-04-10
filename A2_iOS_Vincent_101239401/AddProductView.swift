@@ -91,7 +91,7 @@ struct AddProductView: View {
             try viewContext.save()
 
             clearForm()
-            showMessage(title: "Saved", message: "The product was added successfully.")
+            showMessage(title: "Saved", message: "The product was added successfully!")
         } catch {
             showMessage(title: "Save Error", message: "The product could not be saved.")
         }
