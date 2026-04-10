@@ -38,7 +38,7 @@ struct ProductListView: View {
                 }
             }
             .navigationTitle("All Products")
-            .searchable(text: $searchText, prompt: "Search by product name or description")
+            .searchable(text: $searchText, prompt: "Search by product name or description.")
         }
         .navigationViewStyle(StackNavigationViewStyle())
     }
