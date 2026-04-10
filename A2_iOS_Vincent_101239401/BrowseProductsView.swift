@@ -16,7 +16,7 @@ struct BrowseProductsView: View {
         NavigationView {
             VStack(spacing: 20) {
                 if let product = currentProduct {
-                    Text("This application starts with automatically displaying the first product in the database.")
+                    Text("This application starts by automatically displaying the first product in the DB.")
                         .font(.subheadline)
                         .foregroundColor(.secondary)
                         .padding(.top)
