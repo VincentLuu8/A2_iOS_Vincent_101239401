@@ -39,7 +39,7 @@ struct PersistenceController {
                 (4, "Vitamins", "All-in-one with all the essentials needed daily.", 24.99, "HealthMax"),
                 (5, "Mechanical Keyboard", "Fully RGB keyboard featuring linear switches.", 179.99, "Razer"),
                 (6, "Runners", "Latest cutting-edge zoom bounce foam with extra laces.", 139.99, "Nike"),
-                (7, "TV", "80-inch 4k tv with HDR display.", 2299.99, "Samsung"),
+                (7, "TV", "80-inch 4k TV with HDR display.", 2299.99, "Samsung"),
                 (8, "Tracksuit", "Comfy and loose fitted featuring 100% cotton material.", 159.99, "Alo"),
                 (9, "Desk", "Stand-up functionality with 2 drawers for storage. ", 199.99, "SecretLabs"),
                 (10, "Candle", "3-wick long lasting wax.", 14.99, "WaxJar")
