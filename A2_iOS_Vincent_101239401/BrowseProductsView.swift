@@ -50,7 +50,7 @@ struct BrowseProductsView: View {
                     .padding(.horizontal)
                 } else {
                     VStack(spacing: 12) {
-                        Text("No products found")
+                        Text("No products found.")
                             .font(.title3)
                             .fontWeight(.semibold)
 
